@@ -81,9 +81,9 @@ int main() {
 
         // Introduction section 
 void intro(){
-    cout << "\n\n\n\t     TOPIC";
-    cout << "\n\n\n\n\t     MADE BY:";
-    cout << "\n\n\n\n\t     MATRIC NO: ";
+    cout << "\n\n\n\t     TOPIC"; SCIENTIFIC CALCULATOR 
+    cout << "\n\n\n\n\t     MADE BY:"; GBADAMOSI FELIX OLUWAFEMI
+    cout << "\n\n\n\n\t     MATRIC NO: "; H/CTE/22/0670
     cout << "\n\n\n\n\t     SUPERVISOR : ENGR NZUBE";
     cout << "\n\n\n\n\t     SCHOOL : THE FEDERAL POLYTECHNIC ILARO";
     cin.get();
